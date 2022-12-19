@@ -4,7 +4,7 @@
 -- For more information on Premake: http://industriousone.com/premake
 ----------------------------------------------------------------------
 
-  ode_version = "0.16.2"
+  ode_version = "0.16.3
 
 ----------------------------------------------------------------------
 -- Demo list: add/remove demos from here and the rest of the build
