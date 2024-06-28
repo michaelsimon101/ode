@@ -53,7 +53,8 @@
     "moving_convex",
     "moving_trimesh",
     "tracks",
-    "trimesh"
+    "trimesh",
+    "trimesh_collision"
   }
   
   if not _OPTIONS["no-trimesh"] then

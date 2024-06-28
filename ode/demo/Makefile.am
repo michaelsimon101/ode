@@ -61,8 +61,8 @@ noinst_PROGRAMS += \
                 demo_cyl \
                 demo_moving_trimesh \
                 demo_moving_convex \
-                demo_trimesh
-
+                demo_trimesh \
+                demo_trimesh_collision
 AM_CPPFLAGS += -DdTRIMESH_ENABLED
 endif
 

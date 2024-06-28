@@ -822,6 +822,7 @@ if(ODE_WITH_DEMOS)
 			ode/demo/demo_moving_trimesh.cpp
 			ode/demo/demo_tracks.cpp
 			ode/demo/demo_trimesh.cpp
+			ode/demo/demo_trimesh_collision.cpp
 		)
 	endif()
 	
